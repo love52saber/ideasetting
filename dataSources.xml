@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdbc:mysql://192.168.1.177:3306/hedian_danger?useUnicode=true&amp;characterEncoding=utf-8&amp;allowMultiQueries=true&amp;serverTimezone=Asia/Shanghai" uuid="52161a8c-cedd-441e-90de-9fd30419ce0a">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.1.177:3306/hedian_danger?useUnicode=true&amp;characterEncoding=utf-8&amp;allowMultiQueries=true&amp;serverTimezone=Asia/Shanghai</jdbc-url>
+    </data-source>
+  </component>
+</application>
