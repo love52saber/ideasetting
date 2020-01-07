@@ -34,6 +34,10 @@
           <option name="url" value="https://gitee.com/hediankeji/hedian-train.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/love52saber/devops-client.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\gjyang\gitRepository\java" />
