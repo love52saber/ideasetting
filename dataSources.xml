@@ -18,5 +18,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://47.103.93.6:3306/yandu_risk?serverTimezone=GMT%2B8&amp;useUnicode=true&amp;characterEncoding=utf-8</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="SQLite - media.db" uuid="e0c16cfb-bb62-42df-bc6a-c4f11a7a7630">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$USER_HOME$/gitRepository/java/ffmpeg-boot/config/media.db</jdbc-url>
+    </data-source>
   </component>
 </application>
